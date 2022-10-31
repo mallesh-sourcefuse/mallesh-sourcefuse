@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mallesh-sourcefuse
+- 👋 Hi, I’m Mallesh Dudimetla
 
 <!---
 mallesh-sourcefuse/mallesh-sourcefuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
